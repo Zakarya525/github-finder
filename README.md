@@ -1,5 +1,4 @@
-Github Finder
-Find any github user with this React App. App uses the Context API along with the useContext and useReducer hooks for state management.
+Github Finder, find any github user with this React App. App uses the Context API along with the useContext and useReducer hooks for state management.
 
 
 
